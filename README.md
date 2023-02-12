@@ -85,20 +85,13 @@ Users should be able to:
 
 ## New Feature Requests and Bug Reports
 
-You can request new features or report bugs via the **issues** menu provided by GitHub (see menu above), post a new issue and we will discuss it there.
+You can request new features or report bugs via the [issues](https://github.com/bagussatoto/talksaap/issues) menu provided by GitHub, post a new issue and we will discuss it there.
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-## Contribute
 
-Anyone can contribute to this project, starting from programming, opening manuals, to introducing this product to students
-To learn how to reduce the technology education gap by posting issues in this repository..
-
-<!-- Garis Lurus -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<!-- End -->
 
 
 
