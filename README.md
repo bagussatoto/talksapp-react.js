@@ -5,15 +5,6 @@
 ## TalksApp
 <p>TalksApp is a Chats application based on the web that can be used to send messages and stay in touch with friends and family, anytime and anywhere. The user interface TalksApp is similar to WhatsApp, but not all WhatsApp features are in TalksApp. It is only used for personal projects and not for commercial purposes.<p>
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Feature](#feature)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -60,8 +51,6 @@ Users should be able to:
 - Framer motion
 - Redux
 
-## Author
 
-- Website - [iqballa24](https://github.com/iqballa24)
 
 
