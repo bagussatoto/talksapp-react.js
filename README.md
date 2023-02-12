@@ -73,7 +73,7 @@ Users should be able to:
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-## Kritik dan Saran
+## Criticism and suggestions
 
 | *_Silahkan kirim kritik dan saran anda ke email :_*  |
 |------------------------------------------------------|
@@ -83,7 +83,7 @@ Users should be able to:
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-## Request Fitur Baru dan Pelaporan Bug
+## New Feature Requests and Bug Reports
 
 You can request new features or report bugs via the **issues** menu provided by GitHub (see menu above), post a new issue and we will discuss it there.
 
