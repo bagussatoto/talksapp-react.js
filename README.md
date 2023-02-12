@@ -18,7 +18,7 @@
 | Profile        |  Information                     |
 |----------------|----------------------------------|
 | Name           | Bagus Budi Satoto                |
-| Major        | S1 - Informatika                 |
+| Major        | Bachelor of Informatics                |
 | University         | Universitas Amikom Yogyakarta    |
 
 <!-- Garis Lurus -->
