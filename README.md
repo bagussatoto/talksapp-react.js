@@ -75,7 +75,7 @@ Users should be able to:
 
 ## Criticism and suggestions
 
-| *_Silahkan kirim kritik dan saran anda ke email :_*  |
+| *_Please send your comments and suggestions via email :_*  |
 |------------------------------------------------------|
 | bagusbudi1308@gmail.com                              |
 
