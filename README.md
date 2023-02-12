@@ -13,6 +13,18 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
+## Who made this application?
+
+| Profile        |  Information                     |
+|----------------|----------------------------------|
+| Name           | Bagus Budi Satoto                |
+| Major        | S1 - Informatika                 |
+| University         | Universitas Amikom Yogyakarta    |
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 ## Overview
 
 ### Feature
@@ -78,6 +90,7 @@ Users should be able to:
 | *_Please send your comments and suggestions via email :_*  |
 |------------------------------------------------------|
 | bagusbudi1308@gmail.com                              |
+| bagusbudi1308@students.amikom.ac.id                  |
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
