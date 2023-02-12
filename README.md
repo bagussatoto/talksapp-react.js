@@ -93,8 +93,8 @@ You can request new features or report bugs via the **issues** menu provided by 
 
 ## Contribute
 
-Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada Mahasiswa 
-Untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
+Anyone can contribute to this project, starting from programming, opening manuals, to introducing this product to students
+To learn how to reduce the technology education gap by posting issues in this repository..
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
