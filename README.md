@@ -85,7 +85,7 @@ Users should be able to:
 
 ## Request Fitur Baru dan Pelaporan Bug
 
-Anda dapat meminta fitur baru maupun melaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+You can request new features or report bugs via the **issues** menu provided by GitHub (see menu above), post a new issue and we will discuss it there.
 
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
