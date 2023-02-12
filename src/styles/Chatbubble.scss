@@ -1,0 +1,67 @@
+.msgBubble {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-bottom: 10px;
+
+  .msgContent {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-radius: 0.5em;
+    padding: 6px 7px 8px 9px;
+    font-size: 14px;
+    @apply bg-white dark:bg-dark;
+    @apply text-dark dark:text-grey-secondary;
+
+    .nameUser {
+      color: expression(
+        'rgb(' + Math.floor(Math.random() * 255) + ',' +
+          Math.floor(Math.random() * 255) + ',' +
+          Math.floor(Math.random() * 255) + ')'
+      );
+    }
+
+    .message {
+      display: flex;
+      flex-direction: row;
+      gap: 1rem;
+
+      time {
+        z-index: 10;
+        display: flex;
+        align-items: flex-end;
+        font-size: 11px;
+        @apply text-dark dark:text-grey-secondary;
+      }
+    }
+
+    .triangle {
+      z-index: 0;
+      position: absolute;
+      top: 0;
+      left: -8px;
+      height: 0px;
+      width: 0px;
+      border-bottom: solid 20px transparent;
+      margin-bottom: 20px;
+      @apply border-r-[16px] border-r-white dark:border-r-dark;
+    }
+  }
+
+  &.sender {
+    flex-direction: row-reverse;
+
+    .msgContent {
+      @apply bg-primary-25 dark:bg-primary-100;
+    }
+
+    .triangle {
+      left: auto;
+      right: -8px;
+      border-right: 0px;
+      @apply border-l-[16px] border-l-primary-25 dark:border-l-primary-100;
+    }
+  }
+}
